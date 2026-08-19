@@ -154,7 +154,7 @@ It demonstrates practical implementation of:
 
 ## 👨‍💻 Author
 
-**Rishabh Singh Rajput**
+**Rishabh Singh**
 
 GitHub: (https://github.com/rishabh4630)
 
