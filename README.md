@@ -7,6 +7,7 @@ The project uses a trained Machine Learning model and a Streamlit interface to p
 ## 🚀 Live Demo
 
 🔗 **Try the application online:**
+
 [Student Stress Level Management](https://studentstresslevelmanagement-fblzgvyghwuxdmviuvpd3h.streamlit.app/)
 
 ## 💻 GitHub Repository
